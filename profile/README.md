@@ -1,12 +1,9 @@
-## Hi there 👋
+# Finble
+<한줄소개> <br/>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 팀원 소개
+팀장 : 양유승 <br/>
+기획 : 양유승, 박도울 <br/>
+디자인 : 박지원, 허유진 <br/>
+프론트 : 오지은, 안채연 <br/>
+백 : 이정현, 안혜진 <br/>
