@@ -5,5 +5,5 @@
 팀장 : 양유승 <br/>
 기획 : 양유승, 박도울 <br/>
 디자인 : 박지원, 허유진 <br/>
-프론트 : 오지은, 안채연 <br/>
-백 : 이정현, 안혜진 <br/>
+프론트 : 오지은([@JeeeunOh](https://github.com/JeeeunOh)), 안채연([@chaeyeonan](https://github.com/chaeyeonan)) <br/>
+백 : 이정현([@Jeong-Hyeon-Lee](https://github.com/Jeong-Hyeon-Lee)), 안혜진([@geniee44](https://github.com/geniee44)) <br/>
