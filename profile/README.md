@@ -48,12 +48,12 @@
 
 <img width="980" alt="핀블_상세페이지" src="https://github.com/finble-dev/.github/assets/86969518/10a0c95d-6514-43a3-8747-b16a9265ebc6">
 
-### Project Architecture </p>
+## Project Architecture </p>
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/65931227/218295274-81b71e8c-95fe-40cf-b4b1-3240e50d2f33.png">
 
 <br>
 
-## Member</p>
+## Members</p>
 
 ### Frontend
 Repository Link: [Finble-FE](https://github.com/finble-dev/Finble-FE)
