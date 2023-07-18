@@ -68,4 +68,4 @@ Repository Link: [Finble-BE](https://github.com/finble-dev/Finble-BE)
 |안혜진|이정현|
 |:-:|:--:|
 |<img src="https://avatars.githubusercontent.com/u/86006389?v=4" alt="minsu20" width="100" height="100">|<img src="https://avatars.githubusercontent.com/u/61726631?v=4" alt="friendshipkim97" width="100" height="100">|
-[geniee44](https://github.com/geniee44)|[Jeong-Hyeon-Lee](https://github.com/Jeong-Hyeon-Lee)|
+[geniee44](https://github.com/geniee44)|[hyunihs](https://github.com/hyunihs)|
